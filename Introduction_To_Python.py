@@ -1,8 +1,5 @@
 # Python-Tutorial
-Tutorial for learning how to Program with python
-
-
-__author__ = 'gascenciostudent'
+Tutorials for Learning how to Program with python
 
 # Printing the size of a list and a tuple
 import sys
