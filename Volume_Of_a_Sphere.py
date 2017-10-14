@@ -1,6 +1,3 @@
-# Python-Tutorial
-Tutorial for learning how to Program with python
-
 # Writing a function that will return the volumen of the sphere when given the radies
 import math
 radies = int(raw_input("Enter the radies of the sphere: "))
